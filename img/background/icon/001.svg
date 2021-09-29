@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="103.323" height="96.603" viewBox="0 0 103.323 96.603">
+  <g id="ic_dif_01" transform="translate(-0.003 -0.003)">
+    <g id="Grupo_450" data-name="Grupo 450">
+      <g id="XMLID_2_">
+        <g id="Grupo_448" data-name="Grupo 448">
+          <path id="Trazado_99" data-name="Trazado 99" d="M52.01,6.7V33.55a5.021,5.021,0,0,1-5.03,5.03H33.55l-6.71,6.71-6.71-6.71H6.7a5.021,5.021,0,0,1-5.03-5.03V6.7A5.021,5.021,0,0,1,6.7,1.67H46.98A5.021,5.021,0,0,1,52.01,6.7Z" fill="#fc8422"/>
+        </g>
+        <g id="Grupo_449" data-name="Grupo 449">
+          <path id="Trazado_100" data-name="Trazado 100" d="M46.98,1.67A5.021,5.021,0,0,1,52.01,6.7V33.55a5.021,5.021,0,0,1-5.03,5.03H33.55l-6.71,6.71-6.71-6.71H6.7a5.021,5.021,0,0,1-5.03-5.03V6.7A5.021,5.021,0,0,1,6.7,1.67H46.98Z" fill="none" stroke="#4d4d4d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.333"/>
+        </g>
+      </g>
+      <line id="Línea_16" data-name="Línea 16" x2="20.14" transform="translate(11.74 11.74)" fill="none" stroke="#4d4d4d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.333"/>
+      <line id="Línea_17" data-name="Línea 17" x2="20.14" transform="translate(11.74 20.13)" fill="none" stroke="#4d4d4d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.333"/>
+      <line id="Línea_18" data-name="Línea 18" x2="30.2" transform="translate(11.74 28.52)" fill="none" stroke="#4d4d4d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.333"/>
+    </g>
+    <g id="Grupo_453" data-name="Grupo 453">
+      <g id="XMLID_1_">
+        <g id="Grupo_451" data-name="Grupo 451">
+          <path id="Trazado_101" data-name="Trazado 101" d="M101.67,56.35V83.2a5.021,5.021,0,0,1-5.03,5.03H83.21L76.5,94.94l-6.71-6.71H56.35a5.021,5.021,0,0,1-5.03-5.03V56.35a5.021,5.021,0,0,1,5.03-5.03H96.63A5.03,5.03,0,0,1,101.67,56.35Z" fill="#fc8422"/>
+        </g>
+        <g id="Grupo_452" data-name="Grupo 452">
+          <path id="Trazado_102" data-name="Trazado 102" d="M96.63,51.32a5.021,5.021,0,0,1,5.03,5.03V83.2a5.021,5.021,0,0,1-5.03,5.03H83.21L76.5,94.94l-6.71-6.71H56.35a5.021,5.021,0,0,1-5.03-5.03V56.35a5.021,5.021,0,0,1,5.03-5.03H96.63Z" fill="none" stroke="#4d4d4d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.333"/>
+        </g>
+      </g>
+      <line id="Línea_19" data-name="Línea 19" x2="20.14" transform="translate(61.39 61.39)" fill="none" stroke="#4d4d4d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.333"/>
+      <line id="Línea_20" data-name="Línea 20" x2="20.14" transform="translate(61.39 69.78)" fill="none" stroke="#4d4d4d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.333"/>
+      <line id="Línea_21" data-name="Línea 21" x2="30.21" transform="translate(61.39 78.17)" fill="none" stroke="#4d4d4d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.333"/>
+    </g>
+    <g id="Grupo_454" data-name="Grupo 454">
+      <path id="Trazado_103" data-name="Trazado 103" d="M70.48,11.74l-5.04,5.03,5.04,5.04" fill="none" stroke="#4d4d4d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.333"/>
+      <path id="Trazado_104" data-name="Trazado 104" d="M65.44,16.77H78.87s5.03,0,5.03,5.03V35.23" fill="none" stroke="#4d4d4d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.333"/>
+    </g>
+    <g id="Grupo_455" data-name="Grupo 455">
+      <path id="Trazado_105" data-name="Trazado 105" d="M30.2,88.94l5.03-5.04L30.2,78.87" fill="none" stroke="#4d4d4d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.333"/>
+      <path id="Trazado_106" data-name="Trazado 106" d="M35.23,83.9H21.81s-5.03,0-5.03-5.03V68.8" fill="none" stroke="#4d4d4d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.333"/>
+    </g>
+  </g>
+</svg>

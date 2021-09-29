@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="113.068" height="113.897" viewBox="0 0 113.068 113.897">
+  <g id="ic_docus" transform="translate(0 0.828)">
+    <g id="Grupo_588" data-name="Grupo 588">
+      <path id="Trazado_206" data-name="Trazado 206" d="M110.24,63.18H93.77a7.046,7.046,0,0,1-7.06-7.06V39.65Z" fill="#d0d7df"/>
+      <path id="Trazado_207" data-name="Trazado 207" d="M110.24,63.18v40a7.046,7.046,0,0,1-7.06,7.06H51.41a7.046,7.046,0,0,1-7.06-7.06V46.71a7.046,7.046,0,0,1,7.06-7.06H86.7V56.12a7.046,7.046,0,0,0,7.06,7.06h16.48Z" fill="#f1f2f2"/>
+    </g>
+    <g id="Grupo_594" data-name="Grupo 594">
+      <g id="Grupo_590" data-name="Grupo 590">
+        <g id="XMLID_1_">
+          <path id="Trazado_208" data-name="Trazado 208" d="M44.35,2H9.06A7.046,7.046,0,0,0,2,9.06V65.53a7.046,7.046,0,0,0,7.06,7.06H60.82a7.046,7.046,0,0,0,7.06-7.06v-40Z" fill="#fc8422"/>
+          <g id="Grupo_589" data-name="Grupo 589">
+            <path id="Trazado_209" data-name="Trazado 209" d="M44.35,2V18.47a7.046,7.046,0,0,0,7.06,7.06h2.35" fill="none" stroke="#4d4d4d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+            <path id="Trazado_210" data-name="Trazado 210" d="M44.35,2H9.06A7.046,7.046,0,0,0,2,9.06V65.53a7.046,7.046,0,0,0,7.06,7.06H60.82a7.046,7.046,0,0,0,7.06-7.06v-40Z" fill="none" stroke="#4d4d4d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_591" data-name="Grupo 591">
+        <path id="Trazado_211" data-name="Trazado 211" d="M110.24,63.18,86.71,39.65V56.12a7.059,7.059,0,0,0,7.06,7.06h2.35" fill="none" stroke="#4d4d4d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+        <path id="Trazado_212" data-name="Trazado 212" d="M44.35,82v21.18a7.059,7.059,0,0,0,7.06,7.06h51.76a7.059,7.059,0,0,0,7.06-7.06v-40L86.71,39.65H77.3" fill="none" stroke="#4d4d4d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+      </g>
+      <g id="Grupo_592" data-name="Grupo 592">
+        <path id="Trazado_213" data-name="Trazado 213" d="M82,2,74.94,9.06,82,16.12" fill="none" stroke="#4d4d4d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+        <path id="Trazado_214" data-name="Trazado 214" d="M74.94,9.06H93.76s7.06,0,7.06,7.06V34.94" fill="none" stroke="#4d4d4d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+      </g>
+      <g id="Grupo_593" data-name="Grupo 593">
+        <path id="Trazado_215" data-name="Trazado 215" d="M25.53,110.24l7.06-7.06-7.06-7.06" fill="none" stroke="#4d4d4d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+        <path id="Trazado_216" data-name="Trazado 216" d="M32.59,103.18H13.76s-7.06,0-7.06-7.06V82" fill="none" stroke="#4d4d4d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+      </g>
+    </g>
+  </g>
+</svg>
